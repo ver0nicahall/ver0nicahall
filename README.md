@@ -3,7 +3,7 @@
 I'm Veronica! 
 
 - 🔭 I’m currently working on building Cloop, an online clothing and accessory rental marketplace. 
-- - 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/ver0nicahall/)
+- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ver0nicahall/)
 
 <!--
 **ver0nicahall/ver0nicahall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
