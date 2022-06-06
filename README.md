@@ -2,7 +2,9 @@
 
 I'm Veronica! 
 
+- 🌱 I’m passionate about sustainability (especially in the retail sector) and connecting customers to products. 
 - 🔭 I’m currently working on building Cloop, an online clothing and accessory rental marketplace. 
+- - 💬 Ask me about what book I'm reading!
 - - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ver0nicahall/)
 
 <!--
